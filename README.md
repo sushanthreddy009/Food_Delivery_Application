@@ -32,6 +32,11 @@ This screenshot displays the Payment Details interface of the Food Delivery Appl
 This image captures the "Order Successful" page, reassuring customers that their food order has been successfully placed and is being processed. It's a critical part of the user experience, providing immediate feedback and confirmation after an order is made.
 
 
+### Order Details History
+![Order Details History](https://github.com/sushanthreddy009/Food_Delivery_Application/blob/main/Images_Results_Website/image8.jpg)
+
+This screenshot shows the final output of the 'Order Details History' feature in the Food Delivery Application. It provides users with a comprehensive view of their past orders, including details such as order dates, items purchased, and total amounts, enhancing the user's ability to track and manage their orders efficiently.
+
 
 ## Key Features
 
