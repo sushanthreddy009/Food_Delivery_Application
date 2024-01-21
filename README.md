@@ -4,6 +4,14 @@ DEMO LIVE: https://youtu.be/CAbJFgazZ7M?si=qe7cqozLDs-to0v3
 
 Welcome to the Food Delivery Application project! This application is a comprehensive solution for online food ordering and delivery, built using the modern MERN stack (MongoDB, Express.js, React.js, Node.js). Designed with both end-users and restaurant administrators in mind, this platform offers a seamless and intuitive experience for browsing menus, placing orders, and managing the delivery process.
 
+## Application Screenshots
+
+### Home Page
+![Home Page of the Food Delivery Application](https://github.com/sushanthreddy009/Food_Delivery_Application/blob/main/Images_Results_Website/image1.jpg)
+
+This screenshot shows the home page of the Food Delivery Application, featuring a user-friendly interface and easy navigation options.
+
+
 ## Key Features
 
 - User Registration and Authentication: Secure sign-up and login processes, complete with user profile management.
