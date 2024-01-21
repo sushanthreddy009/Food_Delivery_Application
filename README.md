@@ -21,6 +21,16 @@ This image shows the registration page of the Food Delivery Application, featuri
 
 This screenshot highlights the application's "Add to Cart" functionality, allowing users to select their desired food items, and the "Confirm Order" feature, where users review and finalize their orders. These intuitive features enhance the user experience by streamlining the order process.
 
+### Payment Details Interface
+![Payment Details](https://github.com/sushanthreddy009/Food_Delivery_Application/blob/main/Images_Results_Website/image4.jpg)
+
+This screenshot displays the Payment Details interface of the Food Delivery Application. It showcases the seamless and secure process users experience when entering payment information to complete their food orders.
+
+### Order Successful Confirmation
+![Order Successful](https://github.com/sushanthreddy009/Food_Delivery_Application/blob/main/Images_Results_Website/image5.jpg)
+
+This image captures the "Order Successful" page, reassuring customers that their food order has been successfully placed and is being processed. It's a critical part of the user experience, providing immediate feedback and confirmation after an order is made.
+
 
 
 ## Key Features
