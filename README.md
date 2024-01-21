@@ -44,7 +44,7 @@ Welcome to the Food Delivery Application project! This application is a comprehe
 
 ## Database:
 
-MongoDB: A NoSQL database used for storing application data.
+- MongoDB: A NoSQL database used for storing application data.
 
 ## Additional Libraries & Tools:
 
