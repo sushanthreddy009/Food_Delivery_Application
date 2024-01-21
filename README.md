@@ -92,11 +92,11 @@ MongoDB (Local setup or MongoDB Atlas)
 
    cd backend nodemon run server
 
-Ensure Nodemon is Installed.
-
-If Nodemon is not installed globally, install it using npm:
-
-npm install -g nodemon
+    Ensure Nodemon is Installed.
+    
+    If Nodemon is not installed globally, install it using npm:
+    
+    npm install -g nodemon
 
 
 - Run the frontend:
