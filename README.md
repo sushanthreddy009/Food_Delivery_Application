@@ -16,6 +16,11 @@ This screenshot shows the home page of the Food Delivery Application, featuring 
 
 This image shows the registration page of the Food Delivery Application, featuring a user-friendly form for new users to sign up.
 
+### Add to Cart and Confirm Order Features
+![Add to Cart and Confirm Order](https://github.com/sushanthreddy009/Food_Delivery_Application/blob/main/Images_Results_Website/image%203.jpg?raw=true)
+
+This screenshot highlights the application's "Add to Cart" functionality, allowing users to select their desired food items, and the "Confirm Order" feature, where users review and finalize their orders. These intuitive features enhance the user experience by streamlining the order process.
+
 
 
 ## Key Features
