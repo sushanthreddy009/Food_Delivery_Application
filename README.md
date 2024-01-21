@@ -26,15 +26,35 @@ Welcome to the Food Delivery Application project! This application is a comprehe
 # Technology Stack
 
 
-- MongoDB: A NoSQL database used for storing application data.
+## Frontend:
 
-- Express.js: A web application framework for Node.js, used for building web applications and APIs.
+- HTML, CSS, JavaScript: The core building blocks of the web interface.
 
-- React.js: A JavaScript library for building user interfaces, particularly single-page applications.
+- React.js: A JavaScript library for building dynamic and interactive user interfaces.
 
-- Node.js: The JavaScript runtime environment that runs the server-side of the application.
+- Redux: Used for state management in React applications.
 
-- Additional Libraries & Tools: JSON Web Tokens (JWT) for authentication, Mongoose for MongoDB object modeling, Redux for state management, React Router for navigation, and more.
+## Backend:
+
+- JavaScript: The primary programming language for backend development.
+
+- Node.js: The JavaScript runtime environment for building the server-side of the application.
+
+- Express.js: A web application framework for Node.js, used for building APIs and web applications.
+
+## Database:
+
+MongoDB: A NoSQL database used for storing application data.
+
+## Additional Libraries & Tools:
+
+JSON Web Tokens (JWT): For secure user authentication.
+
+Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js.
+
+React Router: For handling navigation in React applications.
+
+This comprehensive stack ensures a robust, scalable, and interactive web application, catering to the needs of an online food delivery service.
 
 ## Getting Started
 
@@ -47,23 +67,23 @@ MongoDB (Local setup or MongoDB Atlas)
 
 1. Clone the Repository:
 
-git clone https://github.com/sushanthreddy009/Food_Delivery_Application.git
-cd Food_Delivery_Application
+  git clone https://github.com/sushanthreddy009/Food_Delivery_Application.git
+  cd Food_Delivery_Application
 
 2. Install Backend Dependencies:
 
-cd backend
-npm install
+    cd backend
+    npm install
 
 3. Install Frontend Dependencies:
 
-cd frontend
-npm install
+    cd frontend
+    npm install
 
 4. Set Environment Variables:
 
-Create a .env file in the backend directory.
-Add necessary configurations (e.g., MongoDB URI, JWT Secret).
+ - Create a .env file in the backend directory.
+ - Add necessary configurations (e.g., MongoDB URI, JWT Secret).
 
 5. Run the Application:
 
