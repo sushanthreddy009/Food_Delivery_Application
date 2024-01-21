@@ -9,6 +9,9 @@ Welcome to the Food Delivery Application project! This application is a comprehe
 ### Home Page
 ![Home Page of the Food Delivery Application](https://github.com/sushanthreddy009/Food_Delivery_Application/blob/main/Images_Results_Website/image2.jpg)
 
+![Registration_Details]
+(https://github.com/sushanthreddy009/Food_Delivery_Application/blob/main/Images_Results_Website/Register_Image.jpg)
+
 This screenshot shows the home page of the Food Delivery Application, featuring a user-friendly interface and easy navigation options.
 
 
