@@ -67,9 +67,9 @@ MongoDB (Local setup or MongoDB Atlas)
 
 1. Clone the Repository:
 
-  git clone https://github.com/sushanthreddy009/Food_Delivery_Application.git
-
-  cd Food_Delivery_Application
+    git clone https://github.com/sushanthreddy009/Food_Delivery_Application.git
+  
+    cd Food_Delivery_Application
 
 2. Install Backend Dependencies:
 
@@ -83,7 +83,7 @@ MongoDB (Local setup or MongoDB Atlas)
 
 4. Set Environment Variables:
 
- - Create a .env file in the backend directory.
+ - Create a '.env' file in the backend directory.
  - Add necessary configurations (e.g., MongoDB URI, JWT Secret).
 
 5. Run the Application:
