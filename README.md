@@ -1,20 +1,80 @@
-# Food Delivery Application (MERN Stack)
+# Food Delivery Application Using MERN Stack
 
-Welcome to the Food Delivery Application project repository. This project is a web-based platform developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack for online food ordering and delivery services.
+Welcome to the Food Delivery Application project! This application is a comprehensive solution for online food ordering and delivery, built using the modern MERN stack (MongoDB, Express.js, React.js, Node.js). Designed with both end-users and restaurant administrators in mind, this platform offers a seamless and intuitive experience for browsing menus, placing orders, and managing the delivery process.
 
-## Overview
+## Key Features
 
-- **Objective:** To create an online food delivery platform that allows users to browse menus, place orders, and have food delivered to their location.
-- **Technology Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
+- User Registration and Authentication: Secure sign-up and login processes, complete with user profile management.
 
-## Features
+- Menu Browsing: An interactive interface to browse through various restaurant menus and select delicious items.
 
-- User Registration and Authentication: Users can sign up, log in, and manage their profiles.
-- Menu Browsing: Browse restaurant menus, view item details, and add items to the cart.
-- Online Ordering: Place and manage food orders securely.
-- Location-Based Services: Detect and display nearby restaurants and delivery options.
-- Payment Integration: Securely handle online payments for orders.
-- Real-time Order Tracking: Track the status of orders in real-time.
-- Ratings and Reviews: Leave feedback and ratings for restaurants.
-- Admin Panel: Manage restaurants, menus, and user orders through an admin dashboard.
-- Responsive Design: The application is responsive for various devices.
+- Online Ordering System: A streamlined process for placing and managing food orders.
+
+- Location-Based Services: Integration of location services to identify nearby restaurants and available delivery options.
+
+- Payment Integration: Secure payment gateway to handle transactions.
+
+- Real-Time Order Tracking: Live updates on order status for customers.
+
+- Ratings and Reviews: A feedback system for customers to rate and review their dining experiences.
+
+- Admin Panel: A comprehensive dashboard for restaurant owners to manage menus, orders, and view insights.
+
+- Responsive Design: Compatible with various devices for an optimal viewing experience.
+
+
+# Technology Stack
+
+
+- MongoDB: A NoSQL database used for storing application data.
+
+- Express.js: A web application framework for Node.js, used for building web applications and APIs.
+
+- React.js: A JavaScript library for building user interfaces, particularly single-page applications.
+
+- Node.js: The JavaScript runtime environment that runs the server-side of the application.
+
+- Additional Libraries & Tools: JSON Web Tokens (JWT) for authentication, Mongoose for MongoDB object modeling, Redux for state management, React Router for navigation, and more.
+
+## Getting Started
+
+Prerequisites
+
+Node.js and npm (Node Package Manager)
+MongoDB (Local setup or MongoDB Atlas)
+
+# Installation
+
+1. Clone the Repository:
+
+git clone https://github.com/sushanthreddy009/Food_Delivery_Application.git
+cd Food_Delivery_Application
+
+2. Install Backend Dependencies:
+
+cd backend
+npm install
+
+3. Install Frontend Dependencies:
+
+cd frontend
+npm install
+
+4. Set Environment Variables:
+
+Create a .env file in the backend directory.
+Add necessary configurations (e.g., MongoDB URI, JWT Secret).
+
+5. Run the Application:
+
+- Run the backend server:
+
+  npm start
+
+- Run the frontend:
+   
+  npm start
+
+## Running the Application
+
+- Access the application at localhost:3000 (or your configured port) in your web browser.
