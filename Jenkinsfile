@@ -14,7 +14,7 @@ pipeline {
 
         stage('Install Backend Dependencies') {
             steps {
-                dir('server') {
+                dir('backend') {
                     sh 'npm install'
                     // Add: sh 'npm test' if you have backend tests
                 }
@@ -23,7 +23,7 @@ pipeline {
 
         stage('Install Frontend Dependencies') {
             steps {
-                dir('client') {
+                dir('frontend') {
                     sh 'npm install'
                     // Add: sh 'npm test' if you have frontend tests
                 }
