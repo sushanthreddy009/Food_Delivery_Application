@@ -14,16 +14,16 @@ pipeline {
 
         stage('Install Backend Dependencies') {
             steps {
-                dir('server') {
-                    sh 'npm install'
+                dir('backend') {
+                    bat 'npm install'  // ✅ Use 'bat' for Windows
                 }
             }
         }
 
         stage('Install Frontend Dependencies') {
             steps {
-                dir('client') {
-                    sh 'npm install'
+                dir('frontend') {
+                    bat 'npm install'  // ✅ Use 'bat' for Windows
                 }
             }
         }
